@@ -1,2 +1,2 @@
 # LeetCode
-leetcode solutions
+my leetcode solutions
